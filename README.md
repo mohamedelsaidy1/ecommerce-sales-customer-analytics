@@ -9,6 +9,23 @@ The goal of the project is to transform raw transactional data into actionable b
 The project focuses on sales performance, product analysis, customer behavior, customer segmentation (RFM Analysis), and returns analysis.
 
 ---
+## Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](Screenshots/01_Executive_Overview.png)
+
+### Product Performance
+
+![Product Performance](Screenshots/02_Product_Performance.png)
+
+### Customer Analysis
+
+![Customer Analysis](Screenshots/03_Customer_Analysis.png)
+
+### Customer Segmentation & Returns
+
+![Customer Segmentation](Screenshots/04_Customer_Segmentation_Returns.png)
 
 # Project Objectives
 
